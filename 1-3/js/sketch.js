@@ -8,9 +8,9 @@
 // let circles = [];
  
 
-let gravity = 3; let lengthMult = 30000000;
+let gravity = 1.2; let lengthMult = 30000000;
 let pendulums = []; 
-let num = 4; 
+let num = 15; 
 let freq0 = 51;
 let c = ["#0077b6","#0096c7","#00b4d8","#48cae4"];
 
